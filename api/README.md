@@ -1,1 +1,1 @@
-# IN THIS VERSION(.v1), I CREATED models,components and routes FOR Hotel and User.
+# IN THIS VERSION(.v1), I have created Models,Components and Routes for Hotel and User.
