@@ -1,2 +1,4 @@
 # Booking-Reservation_App.v1
-MERN stack hotel reservation app project. React Node.js MongoDB full-stack app using Context API, JWT, custom hooks, and React calendar.
+## POSTMAN
+![image](https://github.com/vlantonakos/Booking-Reservation_App.v1/assets/107072477/d063fb50-c42c-433c-b2d1-8a37286219de)
+
